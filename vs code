@@ -4,4 +4,4 @@ before (install visual studio code file) with arch=arm64
 
 #sudo apt install ./filename
 
-#install after visual studio code to for use commod (code --no-sandbox)
+#install after visual studio code to open for use commod (code --no-sandbox)
