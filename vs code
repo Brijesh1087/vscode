@@ -1,0 +1,7 @@
+#Linux Debian All Distro in (install Visual studio code)
+
+before (install visual studio code file) with arch=arm64
+
+#sudo apt install ./filename
+
+#install after visual studio code to for use commod (code --no-sandbox)
